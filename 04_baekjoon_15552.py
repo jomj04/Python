@@ -1,4 +1,4 @@
-# 백준 15552번 문제
+# 백준 15552번 문제 (빠른 입출력 관련)
 import sys
 T = int(sys.stdin.readline().rstrip())
 result = []
